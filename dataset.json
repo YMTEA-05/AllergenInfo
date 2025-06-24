@@ -1,0 +1,878 @@
+[
+  {
+    "question": "What are the key ingredients in a traditional Margherita pizza?",
+    "answer": "The key ingredients are fresh tomatoes, mozzarella cheese, fresh basil, olive oil, and a simple pizza dough made from flour, water, yeast, and salt.",
+    "cuisine": "Italian"
+  },
+  {
+    "question": "How is authentic miso soup traditionally prepared?",
+    "answer": "Miso soup is made by dissolving miso paste in dashi (a broth typically made from kombu seaweed and bonito flakes), and often includes tofu, seaweed, and green onions.",
+    "cuisine": "Japanese"
+  },
+  {
+    "question": "What spices are commonly used in Indian curry?",
+    "answer": "Common spices include turmeric, cumin, coriander, chili powder, garam masala, and sometimes cinnamon, cardamom, or cloves depending on the recipe.",
+    "cuisine": "Indian"
+  },
+  {
+    "question": "What is the main difference between ramen and udon noodles?",
+    "answer": "Ramen noodles are thin and made with wheat and alkaline water, giving them a yellow color and firm texture, while udon noodles are thick, white, and soft, made from wheat flour and water.",
+    "cuisine": "Japanese"
+  },
+  {
+    "question": "What makes French ratatouille a vegetarian dish?",
+    "answer": "Ratatouille is made entirely of vegetables such as eggplant, zucchini, bell peppers, tomatoes, onions, and herbs, without any meat or animal products.",
+    "cuisine": "French"
+  },
+  {
+    "question": "What is the traditional method of cooking tamales?",
+    "answer": "Tamales are made by spreading masa (corn dough) on corn husks, filling them with meats or vegetables, wrapping them, and steaming until cooked through.",
+    "cuisine": "Mexican"
+  },
+  {
+    "question": "What ingredient gives Thai green curry its distinctive color and flavor?",
+    "answer": "Green curry paste, made with green chilies, lemongrass, garlic, shallots, and other herbs, gives the curry its distinctive color and aromatic flavor.",
+    "cuisine": "Thai"
+  },
+  {
+    "question": "What type of rice is typically used in making Spanish paella?",
+    "answer": "Short-grain rice like Bomba or Calasparra rice is used because it absorbs flavors well without becoming mushy.",
+    "cuisine": "Spanish"
+  },
+  {
+    "question": "What is hummus, and which cuisine is it from?",
+    "answer": "Hummus is a Middle Eastern dip made from blended chickpeas, tahini, lemon juice, garlic, and olive oil.",
+    "cuisine": "Mediterranean"
+  },
+  {
+    "question": "How is Chinese Peking duck traditionally served?",
+    "answer": "Peking duck is served with thin pancakes, sliced scallions, cucumber, and hoisin sauce, allowing diners to wrap the crispy duck skin and meat themselves.",
+    "cuisine": "Chinese"
+  },
+  {
+    "question": "What is the main ingredient in moussaka?",
+    "answer": "The main ingredients in moussaka are layers of eggplant, ground meat (usually lamb or beef), and a creamy béchamel sauce, baked until golden.",
+    "cuisine": "Greek"
+  },
+  {
+    "question": "What gives Korean kimchi its distinctive flavor?",
+    "answer": "Kimchi gets its flavor from fermented napa cabbage mixed with ingredients like Korean chili flakes (gochugaru), garlic, ginger, fish sauce, and green onions.",
+    "cuisine": "Korean"
+  },
+  {
+    "question": "What is the base of a traditional German sauerkraut?",
+    "answer": "Sauerkraut is made by fermenting finely shredded cabbage with salt, which promotes lactic acid fermentation.",
+    "cuisine": "German"
+  },
+  {
+    "question": "What is a typical filling in a Turkish gözleme?",
+    "answer": "Gözleme is a savory flatbread traditionally filled with ingredients like spinach, feta cheese, minced meat, or potatoes, then cooked on a griddle.",
+    "cuisine": "Turkish"
+  },
+  {
+    "question": "What type of pasta is used in traditional (American) macaroni and cheese?",
+    "answer": "Traditional macaroni and cheese is made using elbow macaroni pasta, combined with a creamy cheese sauce typically made with cheddar.",
+    "cuisine": "American"
+  },
+  {
+    "question": "What are the key ingredients in a traditional tabbouleh?",
+    "answer": "Tabbouleh is made with finely chopped parsley, mint, tomatoes, bulgur wheat, lemon juice, and olive oil.",
+    "cuisine": "Lebanese"
+  },
+  {
+    "question": "How is a feijoada typically prepared?",
+    "answer": "Feijoada is a hearty stew made with black beans, pork cuts like sausage and ribs, and sometimes beef, slow-cooked and served with rice and orange slices.",
+    "cuisine": "Brazilian"
+  },
+  {
+    "question": "What is commonly used to flavor injera?",
+    "answer": "Injera is a sourdough flatbread made from teff flour, fermented to give it a tangy flavor and spongy texture.",
+    "cuisine": "Ethiopian"
+  },
+  {
+    "question": "What makes Moroccan tagine distinct in flavor?",
+    "answer": "Tagine is slow-cooked in a conical clay pot and features a blend of spices like cumin, cinnamon, ginger, and preserved lemon, often with meat and dried fruits.",
+    "cuisine": "Moroccan"
+  },
+  {
+    "question": "What is a typical component of a borscht?",
+    "answer": "Borscht is a beet-based soup that often includes cabbage, potatoes, carrots, and is usually served hot or cold with a dollop of sour cream.",
+    "cuisine": "Russian"
+  },
+  {
+    "question": "What is traditionally used to top a Belgian waffle?",
+    "answer": "Belgian waffles are often topped with whipped cream, fresh fruits like strawberries or bananas, and sometimes a drizzle of chocolate or maple syrup.",
+    "cuisine": "Belgian"
+  },
+  {
+    "question": "What is the key ingredient in koshari?",
+    "answer": "Koshari is made with a mix of rice, lentils, and macaroni, topped with a spiced tomato sauce and crispy fried onions.",
+    "cuisine": "Egyptian"
+  },
+  {
+    "question": "How is a South African bobotie typically prepared?",
+    "answer": "Bobotie is a spiced minced meat dish baked with a savory egg custard topping, often containing dried fruits like raisins or apricots.",
+    "cuisine": "South African"
+  },
+  {
+    "question": "What is typically found in a Vietnamese pho?",
+    "answer": "Pho is a noodle soup made with rice noodles, a clear beef or chicken broth, thinly sliced meat, and garnished with herbs, lime, and bean sprouts.",
+    "cuisine": "Vietnamese"
+  },
+  {
+    "question": "What is the main flavoring in Argentine chimichurri sauce?",
+    "answer": "Chimichurri is flavored primarily with fresh parsley, garlic, olive oil, vinegar, and oregano.",
+    "cuisine": "Argentine"
+  },
+  {
+    "question": "What kind of bread is used in a Cuban sandwich?",
+    "answer": "A Cuban sandwich is made with Cuban bread and filled with roast pork, ham, Swiss cheese, pickles, and mustard, then pressed and grilled.",
+    "cuisine": "Cuban"
+  },
+  {
+    "question": "What gives a Swedish meatball its creamy texture?",
+    "answer": "Swedish meatballs are served with a creamy gravy made from beef broth, heavy cream, and sometimes sour cream, often accompanied by lingonberry jam.",
+    "cuisine": "Swedish"
+  },
+  {
+    "question": "What ingredients are used in a Peruvian ceviche?",
+    "answer": "Ceviche is made from fresh raw fish marinated in citrus juice, typically lime, and mixed with onions, cilantro, chili peppers, and sometimes corn or sweet potato.",
+    "cuisine": "Peruvian"
+  },
+  {
+    "question": "What is a common filling in Polish pierogi?",
+    "answer": "Pierogi are often filled with mashed potatoes and cheese, sauerkraut, mushrooms, or fruit, and are boiled then sometimes pan-fried.",
+    "cuisine": "Polish"
+  },
+  {
+    "question": "What is the base of an Iranian fesenjan stew?",
+    "answer": "Fesenjan is a Persian stew made with ground walnuts and pomegranate molasses, usually cooked with chicken or duck.",
+    "cuisine": "Iranian"
+  },
+  {
+    "question": "What is the main ingredient in Scottish haggis?",
+    "answer": "Haggis is made from sheep's heart, liver, and lungs, mixed with oatmeal, onions, and spices, traditionally encased in the animal's stomach.",
+    "cuisine": "Scottish"
+  },
+  {
+    "question": "What makes the preparation of Portuguese bacalhau unique?",
+    "answer": "Bacalhau is cod that has been preserved through salt-curing and drying, then rehydrated and cooked in various traditional Portuguese dishes.",
+    "cuisine": "Portuguese"
+  },
+  {
+    "question": "What are the essential ingredients in Hungarian goulash?",
+    "answer": "Hungarian goulash is made with beef, onions, paprika, tomatoes, and potatoes, slow-cooked into a hearty stew with a rich, paprika-infused broth.",
+    "cuisine": "Hungarian"
+  },
+  {
+    "question": "What type of cheese is traditionally used in Greek feta pie (spanakopita)?",
+    "answer": "Spanakopita is made with feta cheese mixed with spinach, herbs, and eggs, all wrapped in layers of phyllo pastry and baked until golden.",
+    "cuisine": "Greek"
+  },
+  {
+    "question": "What is the key seasoning in Jamaican jerk chicken?",
+    "answer": "Jerk chicken is seasoned with a spice blend including allspice (pimento), scotch bonnet peppers, thyme, garlic, and ginger, then grilled or roasted.",
+    "cuisine": "Jamaican"
+  },
+  {
+    "question": "What makes Neapolitan pizza dough unique?",
+    "answer": "Neapolitan pizza dough is made with only flour, water, salt, and yeast, fermented for at least 24 hours, creating a soft, elastic dough that puffs when baked at high temperatures.",
+    "cuisine": "Italian"
+  },
+  {
+    "question": "What is the main component of Norwegian lefse?",
+    "answer": "Lefse is a soft Norwegian flatbread made primarily from potatoes, flour, and butter, rolled thin and cooked on a griddle.",
+    "cuisine": "Norwegian"
+  },
+  {
+    "question": "What gives Indian biryani its aromatic quality?",
+    "answer": "Biryani gets its aroma from basmati rice cooked with saffron, whole spices like cardamom and cinnamon, and layered with marinated meat or vegetables.",
+    "cuisine": "Indian"
+  },
+  {
+    "question": "What makes Australian pavlova different from regular meringue?",
+    "answer": "Pavlova is a meringue-based dessert with a crispy exterior and soft, marshmallow-like interior, typically topped with whipped cream and fresh fruits.",
+    "cuisine": "Australian"
+  },
+  {
+    "question": "What is the key ingredient in Japanese mochi?",
+    "answer": "Mochi is made from glutinous rice (mochigome) that is steamed and pounded until it becomes a smooth, sticky, and elastic paste.",
+    "cuisine": "Japanese"
+  },
+  {
+    "question": "What spice blend is essential to Ethiopian berbere?",
+    "answer": "Berbere is a complex spice blend containing chili peppers, garlic, ginger, fenugreek, coriander, cardamom, and many other spices, used to flavor Ethiopian stews.",
+    "cuisine": "Ethiopian"
+  },
+  {
+    "question": "What type of meat is traditionally used in Lebanese shawarma?",
+    "answer": "Shawarma is typically made with lamb, chicken, or beef that is marinated in spices and slow-roasted on a rotating vertical spit, then served in pita bread.",
+    "cuisine": "Lebanese"
+  },
+  {
+    "question": "What makes New York-style cheesecake distinctive?",
+    "answer": "New York cheesecake is made with cream cheese, eggs, and heavy cream, creating a dense, rich, and smooth texture, often served plain or with fruit toppings.",
+    "cuisine": "American"
+  },
+  {
+    "question": "What is the main ingredient in Filipino adobo sauce?",
+    "answer": "Filipino adobo sauce is made primarily with soy sauce, vinegar, garlic, bay leaves, and black peppercorns, used to braise meat or vegetables.",
+    "cuisine": "Filipino"
+  },
+  {
+    "question": "What gives Malaysian rendang its rich flavor?",
+    "answer": "Rendang gets its complex flavor from coconut milk and a spice paste made with chilies, galangal, lemongrass, garlic, shallots, and other aromatic spices.",
+    "cuisine": "Malaysian"
+  },
+  {
+    "question": "What is the traditional cooking method for Argentinian asado?",
+    "answer": "Asado involves slow-grilling various cuts of beef over an open fire or on a parrilla (grill), often seasoned simply with coarse salt.",
+    "cuisine": "Argentine"
+  },
+  {
+    "question": "What makes Sicilian cannoli filling special?",
+    "answer": "Cannoli are filled with a sweet ricotta cheese mixture often combined with chocolate chips, candied fruits, and sometimes pistachios, all encased in crispy pastry shells.",
+    "cuisine": "Italian"
+  },
+  {
+    "question": "What is the key ingredient in Moroccan preserved lemons?",
+    "answer": "Preserved lemons are made by curing whole lemons in coarse salt for several weeks, creating a tangy, intensely flavored condiment used in tagines and other dishes.",
+    "cuisine": "Moroccan"
+  },
+  {
+    "question": "What gives Korean bulgogi its sweet and savory taste?",
+    "answer": "Bulgogi marinade typically includes soy sauce, sugar or pear, sesame oil, garlic, and ginger, which tenderizes the thinly sliced beef and adds complex flavors.",
+    "cuisine": "Korean"
+  },
+  {
+    "question": "What is the main starch component in Peruvian papa rellena?",
+    "answer": "Papa rellena consists of mashed potatoes formed around a filling of seasoned ground meat, then breaded and deep-fried until golden.",
+    "cuisine": "Peruvian"
+  },
+  {
+    "question": "What makes Danish smørrebrød unique as an open sandwich?",
+    "answer": "Smørrebrød is served on dense rye bread topped with various ingredients like pickled herring, roast beef, or shrimp, artfully arranged and eaten with a knife and fork.",
+    "cuisine": "Danish"
+  },
+  {
+    "question": "What is the primary ingredient in Israeli falafel?",
+    "answer": "Falafel is made from ground chickpeas (or sometimes fava beans) mixed with herbs, spices, and onions, formed into balls and deep-fried until crispy.",
+    "cuisine": "Israeli"
+  },
+  {
+    "question": "What gives Tunisian harissa its fiery heat?",
+    "answer": "Harissa is a hot chili paste made from dried red peppers, garlic, coriander, caraway, and olive oil, commonly used as a condiment or cooking ingredient.",
+    "cuisine": "Tunisian"
+  },
+  {
+    "question": "What type of noodles are used in Singapore mei fun?",
+    "answer": "Singapore mei fun is made with thin rice vermicelli noodles stir-fried with curry powder, creating a fragrant and mildly spiced dish with various proteins and vegetables.",
+    "cuisine": "Singaporean"
+  },
+  {
+    "question": "What is the traditional liquid used in Irish soda bread?",
+    "answer": "Irish soda bread is made with buttermilk, which reacts with baking soda to create a quick-rising bread with a slightly tangy flavor and dense texture.",
+    "cuisine": "Irish"
+  },
+  {
+    "question": "What gives Finnish karjalanpiirakka its distinctive appearance?",
+    "answer": "Karjalanpiirakka are oval-shaped pastries made with rye flour crust filled with rice porridge, creating boat-shaped pies that are traditionally topped with egg butter.",
+    "cuisine": "Finnish"
+  },
+  {
+    "question": "What is the key ingredient in Colombian arepa?",
+    "answer": "Arepas are made from pre-cooked white or yellow corn flour (masarepa) mixed with salt and water, formed into patties and cooked on a griddle or baked.",
+    "cuisine": "Colombian"
+  },
+  {
+    "question": "What makes Dutch stroopwafel different from regular waffles?",
+    "answer": "Stroopwafels are thin waffle cookies made from two layers of baked dough with a caramel syrup filling in between, traditionally warmed over a hot cup of coffee or tea.",
+    "cuisine": "Dutch"
+  },
+  {
+    "question": "What are the ingredients in Kerala's traditional Avial?",
+    "answer": "Avial is made from a mix of vegetables like yam, carrots, plantain, and ash gourd, cooked with coconut, green chilies, curry leaves, and yogurt, then finished with coconut oil.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What makes Kerala Sadya unique as a traditional meal?",
+    "answer": "Kerala Sadya is a grand vegetarian feast served on a banana leaf, featuring over 20 items like rice, sambar, olan, thoran, pachadi, and payasam, traditionally eaten during festivals like Onam.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What is the key flavoring in Kerala's fish molee?",
+    "answer": "Fish molee is flavored with coconut milk, curry leaves, green chilies, and spices like turmeric and black pepper, creating a mild, creamy curry.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What kind of rice is typically used in Kerala cuisine?",
+    "answer": "Kerala cuisine often uses parboiled red rice, known as 'matta rice,' which has a distinct nutty flavor and chewy texture.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "How is Kerala puttu traditionally served?",
+    "answer": "Puttu is a steamed cylindrical rice cake layered with grated coconut and often served with kadala curry (black chickpea curry) or banana and sugar.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What is the signature ingredient in Kerala's Erissery?",
+    "answer": "Erissery is made with pumpkin or yam cooked with grated coconut, cumin, green chilies, and tempered with mustard seeds, curry leaves, and red chilies.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What sweet dish from Kerala is made using jaggery and ripe bananas?",
+    "answer": "Pazham Pori is a popular Kerala snack made by dipping ripe banana slices in a sweetened flour batter and deep frying them until golden.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What gives Kerala beef fry its distinct taste?",
+    "answer": "Kerala beef fry is made with chunks of beef slow-cooked with spices like black pepper, garam masala, and coconut slices, then dry-fried with curry leaves and coconut oil.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What is a common breakfast item in Kerala made with fermented rice batter?",
+    "answer": "Appam is a lacy-edged soft-centered pancake made from fermented rice batter and coconut milk, often served with stew or curry.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What is the base of Kerala's traditional dessert, Ada Pradhaman?",
+    "answer": "Ada Pradhaman is a payasam made with rice ada (flattened rice flakes), jaggery, coconut milk, and flavored with cardamom, cashews, and raisins fried in ghee.",
+    "cuisine": "Kerala"
+  },
+  {
+    "question": "What is the key ingredient in Bengali Shorshe Ilish?",
+    "answer": "Shorshe Ilish is made with Hilsa fish cooked in a mustard seed paste, mustard oil, and green chilies, giving it a pungent and distinct flavor.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What rice-based sweet is iconic in Bengali cuisine?",
+    "answer": "Mishti Doi, a fermented sweet yogurt made from thickened milk and jaggery or sugar, is a beloved Bengali dessert.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What makes Bengali Chingri Malai Curry special?",
+    "answer": "Chingri Malai Curry features prawns simmered in a rich coconut milk gravy spiced with cinnamon, cloves, and green cardamom, often served with rice.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "Which lentil dish is traditionally served with rice in Bengali meals?",
+    "answer": "Masoor Dal or Moong Dal is a staple in Bengali meals, often tempered with mustard seeds, dried red chilies, and ghee.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What is the traditional cooking medium in Bengali cuisine?",
+    "answer": "Mustard oil is commonly used in Bengali cooking for its sharp flavor and aroma, especially in fish and vegetarian dishes.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What is a Bengali thali typically composed of?",
+    "answer": "A Bengali thali usually includes rice, dal, shukto (bitter vegetable medley), a vegetable curry, fish or meat dish, chutney, and a sweet like rosogolla or sandesh.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What is Shukto and why is it unique?",
+    "answer": "Shukto is a mildly bitter vegetable curry made with bitter gourd, raw banana, and drumsticks, often flavored with radhuni and milk, and served as the first course in a Bengali meal.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What is Panta Bhaat and when is it traditionally eaten?",
+    "answer": "Panta Bhaat is fermented leftover rice soaked in water overnight, typically eaten cold with mustard oil, salt, onion, and green chilies, finding special importance during Pohela Boishakh (Bengali New Year).",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What makes Bengali rosogolla different from other sweets?",
+    "answer": "Bengali rosogolla is made from chenna (curdled milk solids) shaped into soft balls and boiled in light sugar syrup, known for its spongy texture and juiciness.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What type of fish is most commonly associated with Bengali cuisine?",
+    "answer": "Hilsa (ilish) is considered the king of fish in Bengali cuisine and is used in iconic dishes like Shorshe Ilish and Ilish Bhapa.",
+    "cuisine": "Bengali"
+  },
+  {
+    "question": "What is Kori Rotti in Mangalorean cuisine?",
+    "answer": "Kori Rotti is a traditional Mangalorean dish consisting of spicy chicken curry (kori) served with crisp, dry rice wafers (rotti) that soak up the flavorful gravy.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "Which ingredient is central to many Mangalorean curries?",
+    "answer": "Coconut, either grated or as coconut milk, is a key ingredient in most Mangalorean curries, giving them a rich and creamy texture.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "What is Neer Dosa and how is it made?",
+    "answer": "Neer Dosa is a thin, soft rice crepe made with ground rice and water, requiring no fermentation, and is usually served with chutneys or coconut-based curries.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "What is the specialty of Mangalorean Fish Curry?",
+    "answer": "Mangalorean Fish Curry is known for its tangy and spicy flavor, often made with tamarind, red chilies, and coconut paste, using local fish varieties like mackerel or kingfish.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "Which sweet dish is popular during Mangalorean festivals?",
+    "answer": "Patholi is a steamed rice roll stuffed with coconut and jaggery filling, wrapped in turmeric leaves, and is commonly prepared during festivals like Nag Panchami.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "What is the traditional Mangalorean dish made with bamboo shoots?",
+    "answer": "Kanshi or pickled bamboo shoots are used in Mangalorean dishes like Sukka or curries, known for their earthy aroma and sour taste.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "What is Chicken Sukka in Mangalorean cuisine?",
+    "answer": "Chicken Sukka is a dry preparation made with chicken, grated coconut, and a blend of roasted spices, often finished with curry leaves and ghee.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "What is a typical Mangalorean breakfast dish?",
+    "answer": "Pundi or rice dumplings are a typical Mangalorean breakfast, made with broken rice and seasoned with mustard seeds and curry leaves.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "Which pulse-based dish is common in Mangalorean meals?",
+    "answer": "Horse gram curry (Kulitha Saaru) is a common dish, often paired with rice and used for its nutritional and warming properties.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "What makes Mangalorean Catholic cuisine unique?",
+    "answer": "Mangalorean Catholic cuisine features unique dishes like pork bafat and sorpotel, made with vinegar and local spices, reflecting Portuguese influences.",
+    "cuisine": "Mangalorean"
+  },
+  {
+    "question": "Which traditional Karnataka dish is made with horse gram and is especially popular in rural areas?",
+    "answer": "Kootu Saaru, a thin curry made with horse gram dal and tamarind, is a traditional rural Karnataka dish.",
+    "cuisine": "Karnataka (rural)"
+  },
+  {
+    "question": "Which Karnataka city is known for the sweet called 'Dharwad Peda'?",
+    "answer": "Dharwad Peda is a famous milk-based sweet from the city of Dharwad in Karnataka.",
+    "cuisine": "Dharwad"
+  },
+  {
+    "question": "What is the signature dish made from ragi (finger millet) in Karnataka?",
+    "answer": "Ragi Mudde, steamed balls made from finger millet flour, is a traditional staple in many parts of Karnataka, especially in rural areas.",
+    "cuisine": "Karnataka"
+  },
+  {
+    "question": "What is the famous snack from Bengaluru known for its spicy flavor?",
+    "answer": "Maddur Vada, a crispy and spicy fritter made from rice flour, semolina, onions, and spices, is a popular Bengaluru snack.",
+    "cuisine": "Karnataka"
+  },
+  {
+    "question": "What is the popular breakfast dish from Udupi in Karnataka?",
+    "answer": "Udupi cuisine is famous for 'Masala Dosa,' a crispy rice and lentil crepe filled with spiced mashed potatoes, served with sambar and chutneys.",
+    "cuisine": "Udupi"
+  },
+  {
+    "question": "Which spicy stew is a staple in Tamil Nadu meals?",
+    "answer": "Sambar is a lentil-based spicy stew made with toor dal, tamarind, vegetables, and a unique spice blend, served with rice or tiffin items.",
+    "cuisine": "Tamilian"
+  },
+  {
+    "question": "Which rice dish from Tamil cuisine is flavored with tamarind?",
+    "answer": "Puliyodarai, or tamarind rice, is a tangy, spiced rice dish made with tamarind pulp, mustard seeds, curry leaves, and peanuts.",
+    "cuisine": "Tamilian"
+  },
+  {
+    "question": "What is the name of the spicy pepper broth served with rice or as soup?",
+    "answer": "Rasam is a thin, spicy-sour broth made with tamarind juice, tomatoes, black pepper, and cumin, traditionally served with rice.",
+    "cuisine": "Tamilian"
+  },
+  {
+    "question": "Which dish is a cooling yogurt-based rice dish in Tamil Nadu?",
+    "answer": "Thayir Sadam, or curd rice, is a comforting dish made with cooked rice and yogurt, often tempered with mustard seeds, ginger, and curry leaves.",
+    "cuisine": "Tamilian"
+  },
+  {
+    "question": "What is the main ingredient in the Gujarati dish 'Khandvi'?",
+    "answer": "Khandvi is made primarily from gram flour (besan) and yogurt, cooked and rolled into bite-sized pieces.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "Which sweet is famously associated with Gujarat and made from milk and sugar?",
+    "answer": "Basundi is a thickened milk dessert flavored with cardamom and garnished with nuts, popular in Gujarat.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "What is the signature Gujarati snack that consists of deep-fried lentil flour dumplings?",
+    "answer": "Fafda is a crunchy deep-fried snack made from chickpea flour, often served with spicy chutney and fried chilies.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "Which Gujarati dish is a sweet and tangy lentil and rice preparation?",
+    "answer": "Khichdi in Gujarati cuisine is often mildly sweet and cooked with lentils and rice, flavored with jaggery and spices.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "What is the vegetarian thali staple made with various dishes in Gujarat?",
+    "answer": "Gujarati Thali typically includes dishes like dal, kadhi, shaak (vegetable curry), rotli (flatbread), rice, and sweets.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "Which Gujarati dish is made from bottle gourd and often cooked in a lightly sweetened style?",
+    "answer": "Dudhi no Shaak is a simple bottle gourd curry prepared with mild spices and sometimes a hint of sweetness.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "What is 'Thepla' in Gujarati cuisine?",
+    "answer": "Thepla is a thin, spiced flatbread made from wheat flour and fenugreek leaves, commonly eaten as a snack or breakfast.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "Which Gujarati sweet is made from chickpea flour and shaped into rolls?",
+    "answer": "Khandvi is the chickpea flour-based sweet snack that is rolled into spirals and garnished with mustard seeds and grated coconut.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "What is the Gujarati name for a yogurt-based curry often served in meals?",
+    "answer": "Kadhi is a yogurt and gram flour-based curry, slightly sweet and tangy, served as part of Gujarati meals.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "Which Gujarati festival dish is a sweet made from jaggery and sesame seeds?",
+    "answer": "Chikki is a crunchy brittle made from jaggery and sesame seeds, popular especially during festivals like Makar Sankranti.",
+    "cuisine": "Gujarat"
+  },
+  {
+    "question": "What is the popular bread from Punjab known for its soft texture and smoky flavor?",
+    "answer": "Makki di Roti is a cornmeal flatbread from Punjab, often served with Sarson da Saag.",
+    "cuisine": "Punjab"
+  },
+  {
+    "question": "Which rich and creamy curry from Uttar Pradesh features slow-cooked meat in a spiced yogurt gravy?",
+    "answer": "Kakori Kebab is a famous meat delicacy from Uttar Pradesh, especially known in Lucknow cuisine.",
+    "cuisine": "Uttar Pradesh"
+  },
+  {
+    "question": "What is the iconic sweet dish of Rajasthan made from milk and sugar, often shaped into small balls?",
+    "answer": "Mawa Kachori is a sweet stuffed pastry from Rajasthan filled with mawa and nuts.",
+    "cuisine": "Rajasthan"
+  },
+  {
+    "question": "Which wheat-based bread is a staple in Haryana cuisine, often paired with ghee and jaggery?",
+    "answer": "Bajra Roti, made from pearl millet flour, is common in Haryana, especially during winters.",
+    "cuisine": "Haryana"
+  },
+  {
+    "question": "What is the signature dum biryani style from Delhi?",
+    "answer": "Delhi Biryani is a fragrant, mildly spiced rice and meat dish cooked on dum (slow steam).",
+    "cuisine": "Delhi"
+  },
+  {
+    "question": "Which vegetable dish is a specialty of Himachal Pradesh and uses local greens and spices?",
+    "answer": "Chha Gosht is a traditional Himachali mutton dish cooked with marinated yogurt and spices.",
+    "cuisine": "Himachal Pradesh"
+  },
+  {
+    "question": "What spicy lentil soup is common in Uttarakhand cuisine?",
+    "answer": "Ras is a simple lentil soup flavored with local herbs, often consumed in Uttarakhand.",
+    "cuisine": "Uttarakhand"
+  },
+  {
+    "question": "Which sweet snack from Jammu and Kashmir is made from fried dough balls soaked in sugar syrup?",
+    "answer": "Kangri Kulcha is a popular sweet in Jammu, made from fried flour balls soaked in syrup.",
+    "cuisine": "Jammu & Kashmir"
+  },
+  {
+    "question": "What is the famous snack from Punjab that is deep-fried and made from spiced gram flour dough?",
+    "answer": "Pakoras are a popular Punjabi snack, often served with chutney and tea.",
+    "cuisine": "Punjab"
+  },
+  {
+    "question": "Which thick wheat flour flatbread is commonly eaten in Uttarakhand with lentil dishes?",
+    "answer": "Mandua Roti is made from finger millet flour and is a staple in Uttarakhand.",
+    "cuisine": "Uttarakhand"
+  },
+  {
+    "question": "What is the staple dish of Italy that consists of thinly sliced raw meat or fish served with lemon and olive oil?",
+    "answer": "Carpaccio is an Italian appetizer made with thin slices of raw meat or fish, dressed simply.",
+    "cuisine": "Italian"
+  },
+  {
+    "question": "Which Mexican dish is made with folded or rolled tortillas filled with meat, cheese, and vegetables?",
+    "answer": "Tacos are a traditional Mexican food featuring tortillas filled with various savory ingredients.",
+    "cuisine": "Mexican"
+  },
+  {
+    "question": "Which Middle Eastern dish consists of spiced ground meat mixed with herbs, shaped into patties, and grilled?",
+    "answer": "Kofta is a popular Middle Eastern grilled meatball or patty seasoned with spices and herbs.",
+    "cuisine": "Middle Eastern"
+  },
+  {
+    "question": "What is the traditional dish of Russia made from layers of thin pancakes filled with savory or sweet fillings?",
+    "answer": "Blini are Russian thin pancakes often served with caviar, sour cream, or jam.",
+    "cuisine": "Russian"
+  },
+  {
+    "question": "Which South African dish is a spicy stew made from meat and vegetables, often cooked over a fire?",
+    "answer": "Potjiekos is a traditional South African stew cooked slowly in a cast-iron pot outdoors.",
+    "cuisine": "South African"
+  },
+  {
+    "question": "Which Lebanese dish consists of minced meat mixed with bulgur, herbs, and spices, often served raw?",
+    "answer": "Kibbeh nayyeh is a Lebanese dish made of finely ground raw meat mixed with bulgur and spices.",
+    "cuisine": "Lebanese"
+  },
+  {
+    "question": "What is the traditional French pastry that is light, flaky, and shaped like a crescent?",
+    "answer": "A croissant is a buttery, flaky pastry originating from France, famous worldwide.",
+    "cuisine": "French"
+  },
+  {
+    "question": "Which Italian pasta dish is made with eggs, cheese, pancetta, and black pepper?",
+    "answer": "Spaghetti Carbonara is a classic Italian pasta dish with a creamy egg-based sauce and pancetta.",
+    "cuisine": "Italian"
+  },
+  {
+    "question": "Which German dish consists of sausages served with sauerkraut and mustard?",
+    "answer": "Bratwurst with sauerkraut is a popular German meal featuring grilled sausages and fermented cabbage.",
+    "cuisine": "German"
+  },
+  {
+    "question": "Which British dessert consists of layers of sponge cake soaked in tea, layered with custard and fruit?",
+    "answer": "Trifle is a classic British dessert made with layers of cake, custard, fruit, and whipped cream.",
+    "cuisine": "British"
+  },
+  {
+    "question": "What is the famous Turkish dish made of marinated meat cooked on a vertical rotisserie?",
+    "answer": "Doner Kebab is a Turkish dish featuring spiced meat cooked on a vertical spit, thinly sliced to serve.",
+    "cuisine": "Turkish"
+  },
+  {
+    "question": "Which Italian dessert consists of layers of coffee-soaked ladyfingers and mascarpone cream?",
+    "answer": "Tiramisu is a popular Italian dessert made with coffee-soaked biscuits and creamy mascarpone cheese.",
+    "cuisine": "Italian"
+  },
+  {
+    "question": "What is the name of the Canadian dish made of french fries topped with cheese curds and gravy?",
+    "answer": "Poutine is a Canadian comfort food consisting of fries, cheese curds, and brown gravy.",
+    "cuisine": "Canadian"
+  },
+  {
+    "question": "Which Thai dish is made with stir-fried rice noodles, egg, tofu, and tamarind sauce?",
+    "answer": "Pad Thai is a famous Thai street food featuring stir-fried rice noodles with eggs, tofu, and peanuts.",
+    "cuisine": "Thai"
+  },
+  {
+    "question": "Which Indonesian dish consists of skewered and grilled meat served with spicy peanut sauce?",
+    "answer": "Satay is a popular Indonesian street food featuring grilled skewers served with peanut sauce.",
+    "cuisine": "Indonesian"
+  },
+  {
+    "question": "What is the name of the Swiss dish made with melted cheese served with bread for dipping?",
+    "answer": "Fondue is a Swiss dish featuring melted cheese served in a communal pot for dipping bread.",
+    "cuisine": "Swiss"
+  },
+  {
+    "question": "Which Caribbean dish is made with curried goat meat and often served with rice and peas?",
+    "answer": "Curried goat is a flavorful Caribbean dish commonly enjoyed in Jamaica and other islands.",
+    "cuisine": "Caribbean"
+  },
+  {
+    "question": "What is the traditional Filipino dish made from marinated pork or chicken grilled on skewers?",
+    "answer": "Pork or chicken barbecue (BBQ) is a popular Filipino street food made from marinated grilled meat skewers.",
+    "cuisine": "Filipino"
+  },
+  {
+    "question": "Which South African dish features maize porridge served with vegetables or meat stews?",
+    "answer": "Pap is a staple South African food made from ground maize, often served with savory stews.",
+    "cuisine": "South African"
+  },
+  {
+    "question": "What is the name of the Australian snack made with a chocolate coating over a coconut biscuit?",
+    "answer": "Tim Tams are a beloved Australian snack consisting of chocolate-coated biscuit sandwiches with a creamy filling.",
+    "cuisine": "Australian"
+  },
+  {
+    "question": "Which Iranian dish is made of steamed saffron rice often served with stews or grilled meats?",
+    "answer": "Chelo is a classic Iranian dish consisting of plain steamed rice served with stews or kebabs.",
+    "cuisine": "Iranian"
+  },
+  {
+    "question": "What is the traditional Swedish meatball dish served with creamy sauce and lingonberry jam?",
+    "answer": "Swedish meatballs, or köttbullar, are small meatballs served with gravy and lingonberry jam.",
+    "cuisine": "Swedish"
+  },
+  {
+    "question": "Which Malaysian dish is a spicy noodle soup with coconut milk and seafood?",
+    "answer": "Laksa is a Malaysian spicy noodle soup made with a rich coconut milk broth and seafood.",
+    "cuisine": "Malaysian"
+  },
+  {
+    "question": "Which Cuban dish consists of shredded beef stewed with tomatoes, onions, and peppers?",
+    "answer": "Ropa Vieja is a Cuban dish made from shredded beef cooked with tomatoes, bell peppers, and spices.",
+    "cuisine": "Cuban"
+  },
+  {
+    "question": "What is the famous Belgian dish made from fried potatoes typically served with mayonnaise?",
+    "answer": "Belgian frites are double-fried potatoes, often served with mayonnaise or other dipping sauces.",
+    "cuisine": "Belgian"
+  },
+  {
+    "question": "Which Nepalese dish consists of steamed dumplings filled with meat or vegetables?",
+    "answer": "Momos are a popular Nepalese snack made of steamed dumplings filled with meat or vegetables.",
+    "cuisine": "Nepalese"
+  },
+  {
+    "question": "What is the typical American Southern dish made with cornmeal batter and deep-fried catfish?",
+    "answer": "Fried catfish is a staple Southern U.S. dish often served with hushpuppies and coleslaw.",
+    "cuisine": "American (Southern)"
+  },
+  {
+    "question": "Which Dominican Republic dish includes rice, red beans, and meat, also known as 'La Bandera'?",
+    "answer": "La Bandera Dominicana is a staple meal in the Dominican Republic, consisting of rice, beans, and meat.",
+    "cuisine": "Dominican"
+  },
+  {
+    "question": "Which Georgian dish features cheese-filled bread often shaped like a boat?",
+    "answer": "Khachapuri is a Georgian dish made of bread filled with cheese and sometimes topped with egg.",
+    "cuisine": "Georgian"
+  },
+  {
+    "question": "What traditional Chinese dish involves small dumplings steamed or fried with various fillings?",
+    "answer": "Dim sum refers to a variety of Chinese bite-sized dishes, often including dumplings and buns.",
+    "cuisine": "Chinese"
+  },
+  {
+    "question": "What Turkish dish is made of layers of filo pastry filled with chopped nuts and sweet syrup?",
+    "answer": "Baklava is a sweet Turkish pastry made with layers of filo dough, nuts, and syrup or honey.",
+    "cuisine": "Turkish"
+  },
+  {
+    "question": "What is the Greek dish made with grilled meat served in pita with tzatziki sauce?",
+    "answer": "Gyro is a Greek dish with grilled meat slices served in pita bread with vegetables and tzatziki.",
+    "cuisine": "Greek"
+  },
+  {
+    "question": "What is the Icelandic fermented shark dish called?",
+    "answer": "Hákarl is a traditional Icelandic dish made from fermented Greenland shark.",
+    "cuisine": "Icelandic"
+  },
+  {
+    "question": "Which German dish consists of breaded and fried meat cutlets?",
+    "answer": "Schnitzel is a popular German dish made of breaded and pan-fried meat cutlets.",
+    "cuisine": "German"
+  },
+  {
+    "question": "Which Jordanian rice dish is layered with meat, nuts, and vegetables?",
+    "answer": "Mansaf is a traditional Jordanian dish made with lamb, rice, and fermented yogurt sauce.",
+    "cuisine": "Jordanian"
+  },
+  {
+    "question": "What is the name of the Haitian dish made with fried pork chunks called?",
+    "answer": "Griot is a Haitian dish made with marinated, fried pork shoulder.",
+    "cuisine": "Haitian"
+  },
+  {
+    "question": "What is the traditional Finnish dish made with mashed potatoes and turnips?",
+    "answer": "Lanttulaatikko is a Finnish casserole made with mashed rutabaga, a traditional Christmas dish.",
+    "cuisine": "Finnish"
+  },
+  {
+    "question": "Which Burmese salad features fermented tea leaves?",
+    "answer": "Lahpet Thoke is a Burmese salad made with pickled tea leaves, peanuts, and fried garlic.",
+    "cuisine": "Burmese"
+  },
+  {
+    "question": "What is the traditional Israeli breakfast dish made with poached eggs in tomato sauce?",
+    "answer": "Shakshuka is an Israeli and Middle Eastern dish of eggs poached in spicy tomato sauce.",
+    "cuisine": "Israeli"
+  },
+  {
+    "question": "Which Czech dish is a roast pork with dumplings and sauerkraut?",
+    "answer": "Vepřo knedlo zelo is a Czech national dish of roast pork, dumplings, and sauerkraut.",
+    "cuisine": "Czech"
+  },
+  {
+    "question": "What is the national dish of Serbia that includes ground meat shaped into sausages?",
+    "answer": "Ćevapi are small Serbian grilled meat sausages served with flatbread and onions.",
+    "cuisine": "Serbian"
+  },
+  {
+    "question": "Which Iraqi rice dish includes lamb and eggplant and is turned upside-down when served?",
+    "answer": "Maklouba is a Middle Eastern dish popular in Iraq, made with rice, meat, and vegetables layered and flipped.",
+    "cuisine": "Iraqi"
+  },
+  {
+    "question": "What is the traditional Mongolian dish made with mutton or beef steamed in dough pockets?",
+    "answer": "Buuz are Mongolian steamed dumplings filled with minced meat.",
+    "cuisine": "Mongolian"
+  },
+  {
+    "question": "What is the Bhutanese dish made with chilies and cheese?",
+    "answer": "Ema Datshi is Bhutan's national dish made of chili peppers cooked in cheese sauce.",
+    "cuisine": "Bhutanese"
+  },
+  {
+    "question": "Which Georgian dish is a dumpling filled with meat and broth?",
+    "answer": "Khinkali are Georgian dumplings filled with spiced meat and broth, eaten by hand.",
+    "cuisine": "Georgian"
+  },
+  {
+    "question": "What is the national dish of Panama made with stewed chicken and rice?",
+    "answer": "Arroz con Pollo is a Panamanian comfort dish of chicken stewed with rice and spices.",
+    "cuisine": "Panamanian"
+  },
+  {
+    "question": "Which Italian dish is known for its layers of pasta, cheese, and meat sauce?",
+    "answer": "Lasagna is a classic Italian dish with layered pasta, cheese, and ragù sauce.",
+    "cuisine": "Italian"
+  },
+  {
+    "question": "What staple dish from Chinese cuisine includes noodles, vegetables, and sometimes meat or tofu?",
+    "answer": "Chow Mein is a Chinese stir-fried noodle dish often made with vegetables and meat.",
+    "cuisine": "Chinese"
+  },
+  {
+    "question": "Which Caribbean dish consists of oxtail stewed with beans and spices?",
+    "answer": "Oxtail stew is a popular Caribbean dish made by slow-cooking oxtails with beans and aromatic spices.",
+    "cuisine": "Caribbean"
+  },
+  {
+    "question": "Which dish from Malaysian cuisine includes rice cooked in coconut milk, served with sambal and anchovies?",
+    "answer": "Nasi Lemak is Malaysia's national dish, typically served with spicy sambal, fried anchovies, peanuts, and boiled egg.",
+    "cuisine": "Malaysian"
+  },
+  {
+    "question": "What is a famous Czech dish made with braised beef, creamy sauce, and dumplings?",
+    "answer": "Svíčková is a Czech dish featuring marinated beef sirloin in a creamy vegetable sauce, served with dumplings.",
+    "cuisine": "Czech"
+  },
+  {
+    "question": "Which Finnish dish consists of a creamy salmon soup made with potatoes and dill?",
+    "answer": "Lohikeitto is a traditional Finnish salmon soup made with cream, potatoes, and leeks.",
+    "cuisine": "Finnish"
+  },
+  {
+    "question": "What Afghan dish is made of rice cooked with lamb, raisins, and carrots?",
+    "answer": "Kabuli Pulao is a famous Afghan dish made with rice, lamb, raisins, and carrots.",
+    "cuisine": "Afghan"
+  },
+  {
+    "question": "What Jamaican dish is made of saltfish and a fruit called ackee?",
+    "answer": "Ackee and Saltfish is the national dish of Jamaica.",
+    "cuisine": "Jamaican"
+  },
+  {
+    "question": "What Indonesian fried rice dish is often topped with a fried egg?",
+    "answer": "Nasi Goreng is a flavorful Indonesian fried rice dish.",
+    "cuisine": "Indonesian"
+  }, 
+  {
+    "question": "What stuffed dish is popular in Syria and involves grape leaves?",
+    "answer": "Yalanji is a vegetarian dish of grape leaves stuffed with rice and herbs.",
+    "cuisine": "Syrian"
+  },
+  {
+    "question": "What dish uses corn tortillas filled with meat and covered in chili sauce?",
+    "answer": "Enchiladas are corn tortillas rolled around fillings and covered with sauce.",
+    "cuisine": "Mexican"
+  },
+  {
+    "question": "What Puerto Rican rice dish is cooked with pigeon peas and pork?",
+    "answer": "Arroz con Gandules is a popular rice dish with pigeon peas and pork.",
+    "cuisine": "Puerto Rican"
+  }
+]
+

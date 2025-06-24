@@ -1,0 +1,722 @@
+[
+  {
+    "question": "What allergens are present in Margherita pizza?",
+    "answer": "Contains gluten (wheat), dairy (mozzarella cheese), and yeast; may also cause reactions in individuals sensitive to tomatoes. Cross-contact with eggs, nuts, soy, or shellfish is possible in shared kitchens."
+  },
+  {
+    "question": "What allergens are present in Chicken Biryani?",
+    "answer": "May contain dairy (yogurt or ghee), nuts (cashews or almonds), and spices that could trigger sensitivities. Cross-contact with gluten or shellfish is possible depending on preparation."
+  },
+  {
+    "question": "What allergens are present in Pad Thai?",
+    "answer": "Contains peanuts, soy (soy sauce), eggs, and shellfish (shrimp); may also include gluten unless gluten-free soy sauce is used."
+  },
+  {
+    "question": "What allergens are present in Sushi?",
+    "answer": "Common allergens include fish, shellfish, soy (soy sauce), and eggs (in some rolls); may contain sesame seeds and cross-contact with gluten or wasabi additives."
+  },
+  {
+    "question": "What allergens are present in Butter Chicken?",
+    "answer": "Contains dairy (butter, cream), may contain nuts (cashew paste), and gluten if served with naan or thickened with wheat flour."
+  },
+  {
+    "question": "What allergens are present in Cheeseburgers?",
+    "answer": "Contains gluten (bun), dairy (cheese), eggs (in sauces or patties), and possibly soy (in processed ingredients); cross-contact with sesame and nuts may occur."
+  },
+  {
+    "question": "What allergens are present in Caesar salad?",
+    "answer": "Contains dairy (cheese, dressing), eggs (dressing), fish (anchovies), and gluten (croutons); may include soy in commercial dressings."
+  },
+  {
+    "question": "What allergens are present in Tandoori Chicken?",
+    "answer": "Contains dairy (yogurt marinade) and spices that may cause sensitivities; cross-contact with gluten, nuts, or soy is possible depending on kitchen practices."
+  },
+  {
+    "question": "What allergens are present in Chocolate Cake?",
+    "answer": "Contains gluten (flour), dairy (milk, butter), eggs, and sometimes nuts or soy (in chocolate or fillings); cross-contact with other allergens is common in bakeries."
+  },
+  {
+    "question": "What allergens are present in Spaghetti Carbonara?",
+    "answer": "Contains gluten (pasta), dairy (cheese), and eggs; may also contain pork (bacon) and black pepper which can be irritating to some."
+  },
+  {
+    "question": "What allergens are present in Peanut Butter Sandwich?",
+    "answer": "Contains peanuts and gluten (bread); may also contain dairy or soy depending on the spread and bread used."
+  },
+  {
+    "question": "What allergens are present in Miso Soup?",
+    "answer": "Contains soy (miso paste), and may contain fish (dashi), gluten (depending on soy sauce used), and seaweed (rare allergen)."
+  },
+  {
+    "question": "What allergens are present in French Toast?",
+    "answer": "Contains eggs, dairy (milk, butter), and gluten (bread); may include cinnamon or nuts as toppings."
+  },
+  {
+    "question": "What allergens are present in Paneer Tikka?",
+    "answer": "Contains dairy (paneer, yogurt marinade), and may contain mustard or food colorants depending on preparation."
+  },
+  {
+    "question": "What allergens are present in Greek Salad?",
+    "answer": "Contains dairy (feta cheese) and olives (which may be preserved with sulfites); usually gluten-free unless served with bread."
+  },
+  {
+    "question": "What allergens are present in Clam Chowder?",
+    "answer": "Contains shellfish (clams), dairy (cream, butter), and gluten (flour used as thickener or bread served on side)."
+  },
+  {
+    "question": "What allergens are present in Veggie Spring Rolls?",
+    "answer": "May contain gluten (wrappers or soy sauce), soy, and sesame (oil or seeds); egg may be used in the wrapper."
+  },
+  {
+    "question": "What allergens are present in Chocolate Chip Cookies?",
+    "answer": "Contains gluten (flour), dairy (butter, chocolate), eggs, and sometimes soy or nuts depending on the recipe."
+  },
+  {
+    "question": "What allergens are present in Tempura?",
+    "answer": "Contains gluten (batter), eggs, and sometimes shellfish (shrimp tempura); cross-contact with soy or sesame is common."
+  },
+  {
+    "question": "What allergens are present in Beef Stroganoff?",
+    "answer": "Contains dairy (sour cream, butter), gluten (flour or pasta), and may include mushrooms (possible sensitivity)."
+  },
+  {
+    "question": "What allergens are present in Chicken Alfredo Pasta?",
+    "answer": "Contains gluten (pasta), dairy (cheese, cream, butter), and sometimes eggs in fresh pasta."
+  },
+  {
+    "question": "What allergens are present in Egg Fried Rice?",
+    "answer": "Contains eggs and soy (soy sauce); may contain gluten (in soy sauce), sesame oil, and sometimes shellfish or nuts."
+  },
+  {
+    "question": "What allergens are present in Saag Paneer?",
+    "answer": "Contains dairy (paneer, cream, or butter), and may include mustard or garlic (sensitivity triggers)."
+  },
+  {
+    "question": "What allergens are present in Tacos with Cheese and Sour Cream?",
+    "answer": "Contains dairy (cheese, sour cream), and gluten if flour tortillas are used; may also contain soy or corn (taco shells)."
+  },
+  {
+    "question": "What allergens are present in Ramen?",
+    "answer": "Contains gluten (noodles, soy sauce), soy, and eggs; may also include seafood, sesame, or pork depending on variety."
+  },
+  {
+    "question": "What allergens are present in Pesto Pasta?",
+    "answer": "Contains nuts (pine nuts or others), dairy (cheese), and gluten (pasta); may also contain garlic."
+  },
+  {
+    "question": "What allergens are present in Pancakes with Syrup?",
+    "answer": "Contains gluten (flour), dairy (milk, butter), and eggs; syrup may contain artificial additives or allergens."
+  },
+  {
+    "question": "What allergens are present in Baked Ziti?",
+    "answer": "Contains gluten (pasta), dairy (cheese, cream), and eggs (in some pasta or fillings); may also contain soy or meat."
+  },
+  {
+    "question": "What allergens are present in Ice Cream Sundae?",
+    "answer": "Contains dairy (milk, cream), and may include nuts, soy (in toppings or emulsifiers), and gluten (in cones or cookies)."
+  },
+  {
+    "question": "What allergens are present in French ratatouille?",
+    "answer": "Typically allergen-free as it is made from vegetables like eggplant, zucchini, tomatoes, and bell peppers. However, it may contain garlic or herbs that can cause sensitivities in some individuals. Cross-contact with gluten or dairy may occur depending on preparation."
+  },
+  {
+    "question": "What allergens are present in tamales?",
+    "answer": "Contains corn (masa), and may contain dairy (cheese or butter), meat, or lard; fillings vary and may include nuts, soy, or gluten depending on the recipe and sauces used. Always check regional or homemade variations."
+  },
+  {
+    "question": "What allergens are present in Thai green curry?",
+    "answer": "Contains coconut milk, shellfish or fish (fish sauce or shrimp paste), and soy (in some pastes); may include chili, garlic, and gluten depending on the brand of curry paste or soy sauce used."
+  },
+  {
+    "question": "What allergens are present in hummus?",
+    "answer": "Contains sesame (tahini), and may contain garlic or lemon juice which can cause sensitivities. Store-bought versions may also include soy, preservatives, or cross-contact with gluten or dairy."
+  },
+  {
+    "question": "What allergens are present in Spanish paella?",
+    "answer": "Common allergens include shellfish (shrimp, mussels), fish, and sometimes dairy (butter) depending on the variation. May contain gluten (stock or seasoning mix) and peas or peppers, which can cause sensitivities."
+  },
+  {
+    "question": "What allergens are present in Chinese Peking duck?",
+    "answer": "Contains soy (soy sauce, hoisin sauce), gluten (wheat-based wrappers or sauces), and sometimes sesame oil. Cross-contact with nuts or shellfish is possible in shared kitchens."
+  },
+  {
+    "question": "What allergens are present in moussaka?",
+    "answer": "Contains dairy (béchamel sauce, cheese), gluten (flour in sauce or layers), and eggs (used in the topping); may also include nightshade vegetables like eggplant and tomatoes, which can cause sensitivities."
+  },
+  {
+    "question": "What allergens are present in Korean kimchi?",
+    "answer": "Typically contains fish or shellfish (fish sauce, fermented shrimp), garlic, and chili; may also contain soy and gluten depending on the brand or recipe."
+  },
+  {
+    "question": "What allergens are present in German sauerkraut?",
+    "answer": "Usually free of common allergens as it mainly consists of fermented cabbage and salt. However, store-bought varieties may contain sulfites (preservatives) or added spices that could trigger sensitivities."
+  },
+  {
+    "question": "What allergens are present in Turkish gözleme?",
+    "answer": "Contains gluten (wheat-based dough), and commonly includes dairy (cheese, yogurt), and eggs; depending on the filling, may also contain spinach, meat, or sesame oil."
+  },
+  {
+    "question": "What allergens are present in macaroni and cheese?",
+    "answer": "Contains dairy (milk, cheese, butter), gluten (pasta, flour in sauce), and sometimes eggs (in baked versions); processed versions may include soy or artificial additives."
+  },
+  {
+    "question": "What allergens are present in traditional tabbouleh?",
+    "answer": "Contains gluten (bulgur wheat), and may include parsley, lemon juice, and tomatoes which can cause sensitivities. Usually free from major allergens unless modified."
+  },
+  {
+    "question": "What allergens are present in feijoada?",
+    "answer": "May contain pork (various cuts), legumes (black beans), and garlic; often served with rice and sides that may include gluten or dairy. Cross-contact with soy or nuts possible in shared kitchens."
+  },
+  {
+    "question": "What allergens are present in injera?",
+    "answer": "Traditionally made from teff (naturally gluten-free), but may include wheat flour in modern or restaurant versions, introducing gluten. May also be fermented, which can affect those sensitive to yeast."
+  },
+  {
+    "question": "What allergens are present in Moroccan tagine?",
+    "answer": "May contain nuts (almonds), gluten (if served with couscous), and spices like cinnamon or saffron. Some versions include dairy (butter) or preserved lemon (sulfites)."
+  },
+  {
+    "question": "What allergens are present in borscht?",
+    "answer": "Typically contains beets and vegetables, but may include dairy (sour cream) and sometimes beef. Garlic or onions may cause sensitivities. Vegetarian versions may reduce allergen risk."
+  },
+  {
+    "question": "What allergens are present in Belgian waffle?",
+    "answer": "Contains gluten (flour), dairy (milk, butter), and eggs. Toppings may include nuts, soy (chocolate or spreads), or fruit additives with preservatives."
+  },
+  {
+    "question": "What allergens are present in koshari?",
+    "answer": "Contains gluten (pasta), legumes (lentils, chickpeas), and onions (fried in oil, sometimes with flour coating). May include garlic and tomato sauce, which can cause sensitivities."
+  },
+  {
+    "question": "What allergens are present in South African bobotie?",
+    "answer": "Contains eggs and dairy (milk or cream), gluten (breadcrumbs or bread), and may include nuts (almonds or other toppings). Typically includes meat and spices which rarely cause allergies."
+  },
+  {
+    "question": "What allergens are present in Vietnamese pho?",
+    "answer": "Contains gluten (wheat noodles), soy (soy sauce or hoisin), and may contain fish or shellfish (fish sauce). Beef or chicken broth may trigger sensitivities."
+  },
+  {
+    "question": "What allergens are present in Argentine chimichurri sauce?",
+    "answer": "Generally allergen-free, but may contain garlic and vinegar that can cause sensitivities. Occasionally includes chili or parsley, which are rarely allergenic."
+  },
+  {
+    "question": "What allergens are present in Swedish meatball?",
+    "answer": "Contains gluten (breadcrumbs), dairy (cream, butter), and eggs; meatballs often include spices but rarely cause allergies. Served with gravy that may contain gluten."
+  },
+  {
+    "question": "What allergens are present in Peruvian ceviche?",
+    "answer": "Contains fish or shellfish (raw marinated seafood), and may include chili peppers and onions which can cause sensitivities. Cross-contact with soy or gluten is uncommon."
+  },
+  {
+    "question": "What allergens are present in Polish pierogi?",
+    "answer": "Contains gluten (wheat dough), dairy (cheese, butter, or sour cream fillings), and sometimes eggs. Fillings may include potatoes, mushrooms, or meat which are less allergenic."
+  },
+  {
+    "question": "What allergens are present in Iranian fesenjan stew?",
+    "answer": "Contains nuts (walnuts), poultry (chicken or duck), and may include spices that cause sensitivities. Typically gluten- and dairy-free but check for added ingredients."
+  },
+  {
+    "question": "What allergens are present in Scottish haggis?",
+    "answer": "Contains gluten (oats or breadcrumbs), offal (sheep’s organs), and sometimes dairy (butter). Spices and onions may cause sensitivities."
+  },
+  {
+    "question": "What allergens are present in Hungarian goulash?",
+    "answer": "Contains meat (beef or pork), paprika, and onions. Usually free from gluten and dairy unless thickened with flour or served with bread."
+  },
+  {
+    "question": "What allergens are present in Portuguese bacalhau?",
+    "answer": "Contains fish (salted cod), and may contain dairy (butter, cream) or eggs depending on recipe variations."
+  },
+  {
+    "question": "What allergens are present in Greek feta pie (spanakopita)?",
+    "answer": "Contains gluten (phyllo dough), dairy (feta cheese, butter), and eggs (in filling or dough). May contain nuts depending on recipe."
+  },
+  {
+    "question": "What allergens are present in Jamaican jerk chicken?",
+    "answer": "Contains spices (allspice, scotch bonnet chili), and may include soy or gluten if marinades or sauces contain these. Usually free from dairy and nuts."
+  },
+  {
+    "question": "What allergens are present in Neapolitan pizza?",
+    "answer": "Contains gluten (wheat flour), dairy (mozzarella cheese), and yeast. Tomato sauce may cause sensitivities; cross-contact with nuts or soy is possible."
+  },
+  {
+    "question": "What allergens are present in Norwegian lefse?",
+    "answer": "Contains gluten (wheat or potato flour), dairy (butter, cream), and sometimes eggs. May include sugar and cinnamon."
+  },
+  {
+    "question": "What allergens are present in Australian pavlova?",
+    "answer": "Contains eggs (meringue) and may include dairy (whipped cream topping). Toppings like fruit are typically allergen-free."
+  },
+  {
+    "question": "What allergens are present in Ethiopian berbere?",
+    "answer": "Contains spices such as chili, fenugreek, garlic, and ginger which can cause sensitivities. Usually allergen-free but watch for cross-contact in spice blends."
+  },
+  {
+    "question": "What allergens are present in Lebanese shawarma?",
+    "answer": "Contains gluten (pita bread), dairy (yogurt-based sauces), and sometimes sesame (tahini). Meat is typically marinated with spices, but cross-contact with nuts or soy is possible."
+  },
+  {
+    "question": "What allergens are present in New York-style cheesecake?",
+    "answer": "Contains dairy (cream cheese, sour cream), eggs, gluten (graham cracker crust), and sometimes nuts in crust or toppings."
+  },
+  {
+    "question": "What allergens are present in Filipino adobo sauce?",
+    "answer": "May contain soy (soy sauce), garlic, and vinegar; usually free of gluten unless soy sauce is not gluten-free. Occasionally includes black pepper and bay leaves."
+  },
+  {
+    "question": "What allergens are present in Malaysian rendang?",
+    "answer": "Contains coconut milk (dairy-free but may cause sensitivities), spices (chili, lemongrass, turmeric), and may include nuts (peanuts) or soy depending on the recipe."
+  },
+  {
+    "question": "What allergens are present in Argentinian asado?",
+    "answer": "Primarily meat; usually allergen-free except for cross-contact risks and marinades that may contain soy, gluten, or dairy."
+  },
+  {
+    "question": "What allergens are present in Sicilian cannoli?",
+    "answer": "Contains gluten (pastry shell), dairy (ricotta cheese filling), and sometimes nuts (pistachios) or chocolate chips."
+  },
+  {
+    "question": "What allergens are present in Korean bulgogi?",
+    "answer": "Contains soy (soy sauce), sesame, and sometimes gluten (in marinade), garlic, and sugar."
+  },
+  {
+    "question": "What allergens are present in Peruvian papa rellena?",
+    "answer": "Contains gluten (flour used in dough or coating), dairy (butter), and eggs; fillings may include meat and onions."
+  },
+  {
+    "question": "What allergens are present in Danish smørrebrød?",
+    "answer": "Contains gluten (rye bread), dairy (butter, cheese), fish (herring, salmon), and sometimes eggs or shellfish depending on toppings."
+  },
+  {
+    "question": "What allergens are present in Israeli falafel?",
+    "answer": "Contains legumes (chickpeas), sesame (tahini sauce), and sometimes gluten (in bread or binding agents). Cross-contact with nuts or garlic possible."
+  },
+  {
+    "question": "What allergens are present in Tunisian harissa?",
+    "answer": "May contain chili peppers, garlic, and spices. Some versions include preservatives or may be processed with nuts or sesame. Cross-contact in production is possible."
+  },
+  {
+    "question": "What allergens are present in Singapore mei fun?",
+    "answer": "Contains soy (soy sauce), shellfish (shrimp), eggs, and sometimes gluten (in sauces or soy sauce). May also include sesame oil and peanuts."
+  },
+  {
+    "question": "What allergens are present in Irish soda bread?",
+    "answer": "Contains gluten (wheat flour), dairy (buttermilk or milk), and sometimes eggs or nuts depending on the variation."
+  },
+  {
+    "question": "What allergens are present in Finnish karjalanpiirakka?",
+    "answer": "Contains gluten (rye or wheat flour), dairy (rice porridge often cooked with milk or served with egg butter), and eggs."
+  },
+  {
+    "question": "What allergens are present in Dutch stroopwafel?",
+    "answer": "Contains gluten (wheat flour), dairy (butter), and eggs. Also may include soy (in caramel filling) and traces of nuts depending on processing."
+  },
+  {
+    "question": "What allergens are present in Colombian arepa?",
+    "answer": "Typically gluten-free (made from cornmeal), but may contain dairy (cheese or butter) and eggs depending on the variety. Cross-contact with gluten or nuts is possible."
+  },
+  {
+    "question": "What allergens are present in Kerala's traditional Avial?",
+    "answer": "Contains dairy (curd or yogurt) and coconut. Usually free from gluten and nuts, but may cause sensitivities due to mustard seeds or curry leaves."
+  },
+  {
+    "question": "What allergens are present in Kerala's fish molee?",
+    "answer": "Contains fish, coconut milk, and sometimes dairy (if ghee is used). Usually free from gluten and nuts unless cross-contact occurs."
+  },
+  {
+    "question": "What allergens are present in Kerala puttu?",
+    "answer": "Typically made from rice flour and coconut, making it gluten- and dairy-free. Rarely includes allergens, but cross-contact with nuts is possible in shared kitchens."
+  },
+  {
+    "question": "What allergens are present in Kerala's Erissery?",
+    "answer": "Contains legumes (cowpeas or lentils), coconut, and sometimes mustard seeds which may cause sensitivities. Generally free from gluten and dairy."
+  },
+  {
+    "question": "What allergens are present in Pazham Pori or Banana Fritters?",
+    "answer": "Contains gluten (wheat flour) and may contain dairy (if milk or butter is used in the batter). Cross-contact with nuts and eggs is possible during preparation."
+  },
+  {
+    "question": "What allergens are present in Appam?",
+    "answer": "Contains fermented rice and coconut milk, usually free from major allergens. However, may contain yeast and can have cross-contact with gluten or dairy if cooked on shared surfaces."
+  },
+  {
+    "question": "What allergens are present in Ada Pradhaman?",
+    "answer": "Contains dairy (ghee or milk), coconut milk, jaggery, and rice. May also contain cashew nuts and raisins, which can be allergens. Cross-contact with gluten is possible."
+  },
+  {
+    "question": "What allergens are present in Shorshe Ilish?",
+    "answer": "Contains fish (hilsa) and mustard (seeds and oil), which are common allergens. Also may contain green chilies and mustard paste that could trigger sensitivities."
+  },
+  {
+    "question": "What allergens are present in Mishti Doi?",
+    "answer": "Contains dairy (curd and milk). Typically free from gluten and nuts but may have cross-contact in shared kitchens."
+  },
+  {
+    "question": "What allergens are present in Chingri Malai Curry?",
+    "answer": "Contains shellfish (prawns), coconut milk, and dairy (ghee or cream in some versions). May include mustard seeds or paste, which can also be allergens."
+  },
+  {
+    "question": "What allergens are present in Shukto?",
+    "answer": "May contain mustard (paste or seeds) and dairy (milk or ghee). Usually free from gluten, but cross-contact can occur with wheat or nuts in mixed kitchens."
+  },
+  {
+    "question": "What allergens are present in Panta Bhaat?",
+    "answer": "Generally free from common allergens, as it is made from fermented rice. However, accompaniments may include mustard oil, green chilies, or fish, which could be allergenic."
+  },
+  {
+    "question": "What allergens are present in Bengali rosogolla?",
+    "answer": "Contains dairy (chhena or paneer, milk). Usually gluten-free and nut-free, but cross-contact with nuts may happen depending on the facility."
+  },
+  {
+    "question": "What allergens are present in Kori Rotti?",
+    "answer": "Contains gluten (in the rotti), and dairy (ghee or cream in the curry). The curry also includes coconut milk and spices, and may include mustard or other sensitizing ingredients."
+  },
+  {
+    "question": "What allergens are present in Neer Dosa?",
+    "answer": "Generally free from major allergens; made with rice and water. However, cross-contact with gluten, dairy, or nuts may occur in shared kitchens."
+  },
+  {
+    "question": "What allergens are present in Mangalorean Fish Curry?",
+    "answer": "Contains fish and may include coconut milk and mustard seeds. Cross-contact with gluten or dairy is possible depending on preparation methods."
+  },
+  {
+    "question": "What allergens are present in Mangalorean Patholi?",
+    "answer": "Contains coconut, jaggery, and rice; may contain banana or turmeric leaves. Usually allergen-free but may have cross-contact with nuts or dairy."
+  },
+  {
+    "question": "What allergens are present in Chicken Sukka?",
+    "answer": "Contains chicken, coconut, and a variety of spices. Cross-contact with dairy, mustard, or gluten is possible depending on the kitchen."
+  },
+  {
+    "question": "What allergens are present in Mangalorean Pundi?",
+    "answer": "Made primarily with rice and coconut, generally free from common allergens. May have cross-contact with gluten or dairy in shared environments."
+  },
+  {
+    "question": "What allergens are present in Mangalorean pork bafat?",
+    "answer": "Contains pork and a blend of spices. Typically allergen-free but may include mustard or have cross-contact with gluten and dairy."
+  },
+  {
+    "question": "What allergens are present in Mangalorean sorpotel?",
+    "answer": "Contains pork, vinegar, and spices. May contain mustard or soy depending on the recipe. Cross-contact with gluten or dairy is possible."
+  },
+  {
+    "question": "What allergens are present in Kootu Saaru?",
+    "answer": "May contain lentils (legumes), coconut, mustard seeds, and occasionally dairy (ghee). Those sensitive to legumes or mustard should be cautious."
+  },
+  {
+    "question": "What allergens are present in Dharwad Peda?",
+    "answer": "Contains dairy (milk, khoya) and sugar. Typically gluten-free but may have cross-contact with nuts or gluten in preparation."
+  },
+  {
+    "question": "What allergens are present in Ragi Mudde?",
+    "answer": "Made with finger millet (ragi) and water; naturally gluten-free and allergen-friendly. Minimal risk unless cross-contact occurs in kitchens."
+  },
+  {
+    "question": "What allergens are present in Khichdi?",
+    "answer": "Contains legumes (lentils), which may trigger allergies in some individuals. Cross-contact with dairy or gluten may occur depending on preparation."
+  },
+  {
+    "question": "What allergens are present in Fafda?",
+    "answer": "Contains gram flour (chickpeas/legumes) and may be fried in oil with traces of gluten or nuts. Cross-contact with sesame is also possible."
+  },
+  {
+    "question": "What allergens are present in Basundi?",
+    "answer": "Contains dairy (milk, cream). May also include nuts like almonds or pistachios, depending on the recipe."
+  },
+  {
+    "question": "What allergens are present in Khandvi?",
+    "answer": "Contains dairy (yogurt) and gram flour (chickpeas/legumes). Mustard seeds used in tempering may also be allergenic."
+  },
+  {
+    "question": "What allergens are present in Thayir Sadam?",
+    "answer": "Contains dairy (curd/yogurt) and mustard seeds. May also include legumes (urad dal) in seasoning."
+  },
+  {
+    "question": "What allergens are present in Tamilian Rasam?",
+    "answer": "May contain mustard seeds, legumes (toor dal), and asafoetida (some forms have gluten). Cross-contact with sesame or dairy is possible."
+  },
+  {
+    "question": "What allergens are present in Tamilian Puliyodarai?",
+    "answer": "Contains peanuts, sesame seeds, mustard seeds, and sometimes legumes. May also contain asafoetida, which could have gluten."
+  },
+  {
+    "question": "What allergens are present in Tamilian Sambar?",
+    "answer": "Contains legumes (toor dal), mustard seeds, and possibly asafoetida. May also include dairy (ghee) and cross-contact with gluten."
+  },
+  {
+    "question": "What allergens are present in Masala Dosa?",
+    "answer": "Contains legumes (urad dal), rice, and sometimes dairy (butter or ghee). Filling may include mustard seeds and asafoetida."
+  },
+  {
+    "question": "What allergens are present in Maddur Vada?",
+    "answer": "May contain gluten (wheat flour), legumes (gram flour), onions, and spices. Cross-contact with nuts or dairy is possible during frying."
+  },
+  {
+    "question": "What allergens are present in Chha Gosht?",
+    "answer": "Contains dairy (yogurt, ghee) and spices. May also have mustard seeds depending on the recipe."
+  },
+  {
+    "question": "What allergens are present in signature dum biryani style from Delhi?",
+    "answer": "Contains dairy (yogurt, ghee), nuts (cashews or almonds), and may include gluten (from fried onions or wheat-based additives)."
+  },
+  {
+    "question": "What allergens are present in Bajra Roti?",
+    "answer": "Primarily contains millet (bajra). Cross-contact with gluten may occur if prepared on shared surfaces."
+  },
+  {
+    "question": "What allergens are present in Mawa Kachori?",
+    "answer": "Contains dairy (mawa, milk), gluten (wheat flour), and nuts (almonds, pistachios)."
+  },
+  {
+    "question": "What allergens are present in Kakori Kebab?",
+    "answer": "Contains dairy (cream or butter), gluten (if breadcrumbs or flour are used), and may include nuts (like cashew paste)."
+  },
+  {
+    "question": "What allergens are present in Makki di Roti?",
+    "answer": "Contains maize flour. May have dairy (ghee or butter) and risk of cross-contact with gluten."
+  },
+  {
+    "question": "What allergens are present in Chikki?",
+    "answer": "Contains nuts (peanuts, cashews) and may have sesame seeds and jaggery. Nut allergy risk is high."
+  },
+  {
+    "question": "What allergens are present in Kadhi?",
+    "answer": "Contains dairy (yogurt, ghee) and gram flour (chickpeas/legumes). Spices like mustard seeds may also cause reactions."
+  },
+  {
+    "question": "What allergens are present in Thepla?",
+    "answer": "Contains gluten (wheat flour), dairy (yogurt or ghee), and may include sesame seeds and fenugreek leaves (methi)."
+  },
+  {
+    "question": "What allergens are present in Dudhi no Shaak?",
+    "answer": "May contain dairy (ghee, curd), and mustard seeds. Cross-contact with gluten possible depending on preparation."
+  },
+  {
+    "question": "What allergens are present in Ras from Uttarakhand?",
+    "answer": "Contains legumes (black gram, kidney beans) which may trigger legume allergies. Spices may also cause sensitivities."
+  },
+  {
+    "question": "What allergens are present in Kangri Kulcha?",
+    "answer": "Contains gluten (wheat flour) and may contain dairy (yogurt, butter) depending on the preparation."
+  },
+  {
+    "question": "What allergens are present in Punjabi Pakoras?",
+    "answer": "Contains legumes (gram flour), and may contain gluten (if wheat flour is added), dairy (in some variants), and mustard seeds."
+  },
+  {
+    "question": "What allergens are present in Mandua Roti?",
+    "answer": "Made from finger millet (mandua). Generally gluten-free but may have cross-contact with gluten if cooked on shared surfaces."
+  },
+  {
+    "question": "What allergens are present in Carpaccio?",
+    "answer": "Typically contains raw meat or fish (allergen risk), and may include dairy (cheese), nuts (pine nuts), or egg (in dressings)."
+  },
+  {
+    "question": "What allergens are present in Middle Eastern Kofta?",
+    "answer": "Contains eggs, gluten (breadcrumbs or bulgur), and may include dairy (yogurt sauces) or nuts depending on the recipe."
+  },
+  {
+    "question": "What allergens are present in Russian Blini?",
+    "answer": "Contains gluten (wheat flour), dairy (milk, butter), and eggs."
+  },
+  {
+    "question": "What allergens are present in South African Potjiekos?",
+    "answer": "Varies by recipe but may contain dairy (butter or cream), gluten (flour), and celery or mustard."
+  },
+  {
+    "question": "What allergens are present in Lebanese Kibbeh nayyeh?",
+    "answer": "Contains gluten (bulgur wheat) and may include nuts or dairy depending on accompaniment. Raw meat also poses dietary risks."
+  },
+  {
+    "question": "What allergens are present in French croissant?",
+    "answer": "Contains gluten (wheat flour), dairy (butter, milk), and eggs."
+  },
+  {
+    "question": "What allergens are present in Tim Tams?",
+    "answer": "Contains gluten (wheat), dairy (milk), soy, and may contain egg and traces of nuts due to manufacturing processes."
+  },
+  {
+    "question": "What allergens are present in South African Pap?",
+    "answer": "Typically made from maize meal and is gluten-free. However, cross-contamination with gluten-containing grains may occur."
+  },
+  {
+    "question": "What allergens are present in Curried goat?",
+    "answer": "May contain dairy (yogurt or cream), mustard, or nuts depending on the recipe. Spice blends may also trigger sensitivities."
+  },
+  {
+    "question": "What allergens are present in Fondue?",
+    "answer": "Contains dairy (cheese, cream) and may contain alcohol. Bread served with it usually contains gluten."
+  },
+  {
+    "question": "What allergens are present in Satay?",
+    "answer": "Contains peanuts (in the sauce), soy (soy sauce), and may include gluten (from soy sauce or marinades) and sesame."
+  },
+  {
+    "question": "What allergens are present in Poutine?",
+    "answer": "Contains dairy (cheese curds), gluten (gravy often contains flour), and sometimes soy (in gravy bases)."
+  },
+  {
+    "question": "What allergens are present in Tiramisu?",
+    "answer": "Contains dairy (mascarpone, cream), eggs, gluten (ladyfingers), and may contain alcohol (Marsala wine, rum)."
+  },
+  {
+    "question": "What allergens are present in Turkish Doner Kebab?",
+    "answer": "May contain gluten (bread, marinades), dairy (yogurt sauce), and soy (in processed meats or sauces)."
+  },
+  {
+    "question": "What allergens are present in British Trifle?",
+    "answer": "Contains dairy (custard, cream), gluten (sponge cake), eggs, and sometimes nuts and alcohol."
+  },
+  {
+    "question": "What allergens are present in German Bratwurst?",
+    "answer": "May contain gluten (fillers or casing), soy, and mustard. Some varieties may also include milk or eggs."
+  },
+  {
+    "question": "What allergens are present in Chelo?",
+    "answer": "Chelo (plain Persian rice) typically contains no common allergens, but if served with butter or saffron yogurt, it may contain dairy."
+  },
+  {
+    "question": "What allergens are present in köttbullar?",
+    "answer": "Swedish meatballs (köttbullar) may contain gluten (breadcrumbs), dairy (milk or cream), eggs, and sometimes soy (in sauces)."
+  },
+  {
+    "question": "What allergens are present in Laksa?",
+    "answer": "Laksa may contain shellfish, fish (shrimp paste or stock), soy, gluten (noodles or sauces), peanuts, and sometimes dairy depending on the variant."
+  },
+  {
+    "question": "What allergens are present in Ropa Vieja?",
+    "answer": "Typically contains no major allergens directly, but may include soy (in seasonings), gluten (if served with bread or wheat products), and sometimes eggs (in accompaniments)."
+  },
+  {
+    "question": "What allergens are present in Momos?",
+    "answer": "Momos may contain gluten (wheat-based wrappers), soy (in dipping sauces), and sometimes dairy or eggs depending on the dough or filling."
+  },
+  {
+    "question": "What allergens are present in Fried catfish?",
+    "answer": "May contain fish (catfish), gluten (breading), eggs, and dairy (in batter or sauces). Cooking oil may also carry traces of other allergens."
+  },
+  {
+    "question": "What allergens are present in La Bandera Dominicana?",
+    "answer": "This dish of rice, beans, and meat typically has no major allergens, but may contain soy, gluten (if seasonings or sauces are processed), or dairy depending on preparation."
+  },
+  {
+    "question": "What allergens are present in Khachapuri?",
+    "answer": "Contains gluten (bread), dairy (cheese, butter), and eggs. May also contain sesame seeds depending on the variation."
+  },
+  {
+    "question": "What allergens are present in Dim sum?",
+    "answer": "Contains gluten (wrappers, soy sauce), soy, shellfish, eggs, sesame, and peanuts or tree nuts."
+  },
+  {
+    "question": "What allergens are present in Baklava?",
+    "answer": "Contains tree nuts (walnuts, pistachios), gluten (phyllo dough), dairy (butter), and sometimes honey."
+  },
+  {
+    "question": "What allergens are present in Greek Gyro?",
+    "answer": "Contains gluten (pita bread), dairy (tzatziki sauce), soy (in sauces or seasonings), and sometimes eggs (in sauces or dressings)."
+  },
+  {
+    "question": "What allergens are present in Hákarl?",
+    "answer": "Contains fish; should be avoided by individuals with fish allergies."
+  },
+  {
+    "question": "What allergens are present in Schnitzel?",
+    "answer": "Contains gluten (breading), eggs (in the coating), and sometimes dairy (butter or milk in preparation)."
+  },
+  {
+    "question": "What allergens are present in Mansaf?",
+    "answer": "Contains dairy (jameed or yogurt sauce), and may contain gluten (bread base) and nuts depending on the recipe."
+  },
+  {
+    "question": "What allergens are present in Griot?",
+    "answer": "Contains soy (in seasonings), and may contain sulfites or gluten from frying oil cross-contamination."
+  },
+  {
+    "question": "What allergens are present in Lanttulaatikko?",
+    "answer": "Contains dairy (milk, cream, butter), eggs, and gluten (breadcrumbs or flour toppings)."
+  },
+  {
+    "question": "What allergens are present in Lahpet Thoke?",
+    "answer": "Contains peanuts, tree nuts (like sesame), soy, fish (fish sauce), and sometimes gluten (soy sauce)."
+  },
+  {
+    "question": "What allergens are present in Shakshuka?",
+    "answer": "Contains eggs and may contain dairy (if cheese is added); some variations may include gluten or soy."
+  },
+  {
+    "question": "What allergens are present in Vepřo knedlo zelo?",
+    "answer": "Contains gluten (dumplings), and may contain dairy (butter or milk in dumplings) and eggs."
+  },
+  {
+    "question": "What allergens are present in Ćevapi?",
+    "answer": "Contains gluten (if served with bread), and may contain dairy or eggs; soy or preservatives may be present in commercial versions."
+  },
+  {
+    "question": "What allergens are present in Svíčková?",
+    "answer": "Contains dairy (cream, butter), gluten (flour, dumplings), and sometimes eggs (in dumplings or sauce)."
+  },
+  {
+    "question": "What allergens are present in Nasi Lemak?",
+    "answer": "Contains peanuts (garnish), eggs (boiled egg), fish or seafood (anchovies, sambal), and coconut (in rice)."
+  },
+  {
+    "question": "What allergens are present in Oxtail stew?",
+    "answer": "Contains celery, dairy (if butter or cream is used), gluten (if flour is used as a thickener), and sometimes soy (in sauces)."
+  },
+  {
+    "question": "What allergens are present in Chow Mein?",
+    "answer": "Contains gluten (noodles, soy sauce), soy, sesame oil, and sometimes shellfish (shrimp). Eggs are often present in noodles."
+  },
+  {
+    "question": "What allergens are present in Lasagna?",
+    "answer": "Contains gluten (pasta sheets), dairy (cheese, milk), eggs (in pasta or béchamel), and sometimes soy (in processed cheese or sauce)."
+  },
+  {
+    "question": "What allergens are present in Arroz con Pollo?",
+    "answer": "Contains celery, soy (seasoning or broth), and sometimes dairy (butter or cheese)."
+  },
+  {
+    "question": "What allergens are present in Khinkali?",
+    "answer": "Contains gluten (dough), eggs, and sometimes dairy (in fillings or dough)."
+  },
+  {
+    "question": "What allergens are present in Ema Datshi?",
+    "answer": "Contains dairy (cheese, butter) and may include eggs or gluten depending on variations."
+  },
+  {
+    "question": "What allergens are present in Buuz?",
+    "answer": "Contains gluten (wheat dough), and may include eggs and soy (in seasoning or dipping sauce)."
+  },
+  {
+    "question": "What allergens are present in Maklouba?",
+    "answer": "Contains gluten (if flour is used in coating), nuts (optional garnishes), and dairy (optional yogurt served on side)."
+  },
+  {
+    "question": "What allergens are present in Lohikeitto?",
+    "answer": "Contains fish (salmon), dairy (cream or milk), and sometimes celery."
+  },
+  {
+    "question": "What allergens are present in Kabuli Pulao?",
+    "answer": "Contains nuts (almonds, pistachios), gluten (if served with bread), and sometimes dairy (butter or ghee)."
+  },
+  {
+    "question": "What allergens are present in Ackee and Saltfish?",
+    "answer": "Contains fish (salted cod) and may contain soy or gluten depending on seasoning and accompaniments."
+  },
+  {
+    "question": "What allergens are present in Nasi Goreng?",
+    "answer": "Contains soy (soy sauce), eggs, shellfish (optional shrimp), and sometimes peanuts or tree nuts."
+  },
+  {
+    "question": "What allergens are present in Yalanji?",
+    "answer": "Contains gluten (bread or wraps), dairy (yogurt or sauces), and sometimes nuts or sesame."
+  },
+  {
+    "question": "What allergens are present in Enchiladas?",
+    "answer": "Contains gluten (tortillas), dairy (cheese, sour cream), and sometimes soy (in sauces)."
+  },
+  {
+    "question": "What allergens are present in Arroz con Gandules?",
+    "answer": "Contains gluten (if served with bread) and may contain soy or nuts depending on recipe variations."
+  }
+]
